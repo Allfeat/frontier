@@ -6770,7 +6770,7 @@ dependencies = [
  "quote",
  "sp-core-hashing",
  "sp-std 8.0.0 (git+https://github.com/paritytech/polkadot-sdk?branch=release-polkadot-v1.5.0)",
- "syn 1.0.109",
+ "syn 2.0.48",
  "trybuild",
 ]
 
